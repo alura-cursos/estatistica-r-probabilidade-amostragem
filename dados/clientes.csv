@@ -1,4 +1,4 @@
-ID_cliente,nome,sexo_biologico,idade,cidade,estado,regiao
+ID_cliente,nome_cliente,sexo_biologico_cliente,idade_cliente,cidade_cliente,estado_cliente,regiao_cliente
 0,Daniel Alves,Masculino,40,Canoas,Rio Grande do Sul,Sul
 1,João Guilherme da Cruz,Masculino,34,São José do Rio Preto,São Paulo,Sudeste
 2,Henry Gabriel Carvalho,Masculino,33,São Paulo,São Paulo,Sudeste
